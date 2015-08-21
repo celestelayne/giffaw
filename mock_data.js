@@ -1,4 +1,4 @@
-var mockData = {
+var GLOBAL_MOCK_DATA_OBJECT = {
     "data": [
         {
             "type": "gif",
